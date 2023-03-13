@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+Lumache的文檔托管在Read the Docs上。
