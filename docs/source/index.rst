@@ -21,4 +21,4 @@ Contents
    usage
    api
 
-Lumache的文檔托管在Read the Docs上。
+Lumache的文檔托管在Read the Docs上。 Lumache has its documentation hosted on Read the Docs.
